@@ -6,8 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sohrab-yellow)](https://stackoverflow.com/users/3687251/Sohrab-)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+I have just started my career in IT world as a Full Stack developer having skills of HTML5, CSS3, ReactJS, NodeJS, Express, MongoDB etc.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Sohrab75/count.svg)
