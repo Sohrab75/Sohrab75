@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Sohrab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sohrab75--01629954/)](https://www.linkedin.com/in/Sohrab--01629954/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/channel/UCUkFQxHip26XIvPoEFi2d0A/featured)
+[![Linkedin Badge](https://img.shields.io/badge/-Sohrab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sohrab-ansari-074015159](www.linkedin.com/in/sohrab-ansari-074015159)
 [![Website Badge](https://img.shields.io/badge/WebSite-Sohrab-green)](https://www.Sohrab)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Sohrab-yellow)](https://stackoverflow.com/users/3687251/Sohrab-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Sohrab-yellow)]([[https://stackoverflow.com/users/3687251/Sohrab-](https://stackoverflow.com/users/20553313/md-sohrab-ansari)](https://stackoverflow.com/users/20553313/md-sohrab-ansari)
 
 I'm
 I have just started my career in IT world as a Full Stack developer having skills of HTML5, CSS3, ReactJS, NodeJS, Express, MongoDB etc.
