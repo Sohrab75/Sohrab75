@@ -6,7 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sohrab-yellow)](https://stackoverflow.com/users/20553313/md-sohrab-ansari)
 
 I'm
-I am a Full Stack developer having skills of HTML5, CSS3, ReactJS, NodeJS, Express, MongoDB etc.
+I am a Full Stack developer having skills of HTML5, CSS3, JavaScript ,ReactJS, NodeJS, Express, MongoDB etc.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Sohrab75/count.svg)
